@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C" : 0,
+    "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB" : 9223372036854775807,
+    "20B5E220B44D3958A2219B13999BCD96DC9444FE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B38E7E3E-A9F1-4387-849F-632893CBBA39",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C" : "iOSTweakDevTools\/optool\/optool\/FSArgumentParser\/",
+    "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB" : "iOSTweakDevTools\/",
+    "20B5E220B44D3958A2219B13999BCD96DC9444FE" : "iOSTweakDevTools\/optool\/optool\/FSArgumentParser\/CoreParse\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "optool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "optool\/optool.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/beelsebob\/CoreParse",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20B5E220B44D3958A2219B13999BCD96DC9444FE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jsonwang\/iOSTweakDevTools.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mysteriouspants\/ArgumentParser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C"
+    }
+  ]
+}

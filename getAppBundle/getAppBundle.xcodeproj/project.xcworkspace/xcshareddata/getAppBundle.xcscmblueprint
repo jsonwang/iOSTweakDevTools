@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB" : 9223372036854775807,
+    "9AE7A94D8F3624BDD2F6A17F53146DC474D851C4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F0605B1-2995-40D2-8479-A6D4E7F2E967",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB" : "iOSTweakDevTools\/",
+    "9AE7A94D8F3624BDD2F6A17F53146DC474D851C4" : "IANDecryptiOSApp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "getAppBundle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "getAppBundle\/getAppBundle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ianisme\/IANDecryptiOSApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AE7A94D8F3624BDD2F6A17F53146DC474D851C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jsonwang\/iOSTweakDevTools.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3FDB6DA25B614A90042FBD9DFB61FB8746790EB"
+    }
+  ]
+}
